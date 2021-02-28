@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\Rodrigo Santos\source\repos\SnakeGame\obj\Debug\SnakeGame.pdb
